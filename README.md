@@ -1,16 +1,16 @@
 # Searching-Text-In-Image
 Searching A Text or Keyword in The Handwritten Scanned Pile of Images
 
-Have you ever faced a problem in finding a text or keyword in the handwritten scanned pile of documents? And got frustrated for doing it manually? Added, cursed yourself for doing such job? Sometimes you might have cursed the technology too! for not making your job easier.
+Have you ever faced a problem in finding a text or keyword in the handwritten scanned pile of documents? And got frustrated for doing it manually? Added, cursed yourself for doing such a job? Sometimes you might have cursed the technology too! for not making your job easier.
 
-Anytime while doing this kind of work, did you thought or search in internet is there any application which can solve your problem? If that so believe me, you were in a right place!
+Anytime while doing this kind of work, did you thought or search on the internet is there any application that can solve your problem? If that so believe me, you were in the right place!
 
 ### Let’s breakdown our problem statement as execution steps,
 
 - [x] Image Processing: Converting the scanned copy of the handwritten images into the machine-readable text. 
-- [x] Search Keyword: Scanning the converted image to text document to find given keywords.
-- [x] Highlight Keyword: Highlighting the found keywords in the different color which helps the reader to read it fast. 
-- [x] Restore Image: After successful process of searching and highlighting store the image back to its original for.
+- [x] Search Keyword: Scanning the converted image to a text document to find given keywords.
+- [x] Highlight Keyword: Highlighting the found keywords in a different color which helps the reader to read it fast. 
+- [x] Restore Image: After the successful process of searching and highlighting store the image back to its original form.
 
 ### Pre-requisites 
 
@@ -49,9 +49,11 @@ After step 4, we will be successfully scanned the image for the keyword and high
 - [x] Run the PY file 
 - [x] Output Refer output.png img file
 
+![Output](https://github.com/muthuvenki/Searching-Text-In-Image/blob/master/ocr/output.png)
+
 ### Conclusion 
 
-This is just a sample what I’ve demoed. Further we can use this in different useful way of real-life business case problems like,
+This is just a sample that I’ve demoed. Further, we can use this in the different useful way of real-life business case problems like,
 - 1.	Scanning a string in a scanned document of millions of images and find similarity documents.
 - 2.	Finding a specific statement or quotation of large scanned books 
 
