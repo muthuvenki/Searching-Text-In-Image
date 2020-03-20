@@ -57,6 +57,6 @@ This is just a sample that I’ve demoed. Further, we can use this in the differ
 - 1.	Scanning a string in a scanned document of millions of images and find similarity documents.
 - 2.	Finding a specific statement or quotation of large scanned books 
 
-For any clarification in the codes or implanting different functionalities or if you have any different use case in similar lines, please feel free to contact me on ***venkatmuthiahc@gmail.com.***
+For any clarification in the codes or require different functionalities or if you have any different use case in similar lines, please feel free to contact me on ***venkatmuthiahc@gmail.com.***
 
 
