@@ -1,7 +1,7 @@
 # Searching-Text-In-Image
 Searching A Text or Keyword in The Handwritten Scanned Pile of Images
 
-Have you ever faced a problem in finding a text or keyword in the handwritten scanned pile of documents? And got frustrated for doing it manually? Added, cursed yourself for doing such a job? Sometimes you might have cursed the technology too! for not making your job easier.
+Have you ever faced a problem in finding a text or keyword in the handwritten scanned pile of documents? And got frustrated for doing it manually? or, cursed yourself for doing such a job? Sometimes you might have cursed the technology too! for not making your job easier.
 
 Anytime while doing this kind of work, did you thought or search on the internet is there any application that can solve your problem? If that so believe me, you were in the right place!
 
